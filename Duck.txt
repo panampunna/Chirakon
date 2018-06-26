@@ -1,5 +1,2 @@
 
 Duck file
-
-===================
-2nd Commit 
