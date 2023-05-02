@@ -1,14 +1,11 @@
-This is the account for the 25th June  
-Only Babu and Baby worked. for this day.  
-I bag of cement
+
+tu18:/tmp/jj/Chirakon$ git checkout tags/v23.5.2.1 
+Note: checking out 'tags/v23.5.2.1'.
 
 
-cash balance  15K  
-
- 4th commit 
-  
- 
-
+rakon$ git tag v1.0
+john@Ubuntu18:/tmp/jj/Chirakon$ git tag
+v1.0
 
 
 
