@@ -21,7 +21,7 @@ git clone https://github.com/panampunna/2023-ubuntu.git
 
 git branch
 
-git checkout develop
+##git checkout develop
 
 git pull
 
