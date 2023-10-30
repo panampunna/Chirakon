@@ -13,6 +13,10 @@ mkdir -p  /home/john/Vimal
 
 echo -e " https://github.com/panampunna/2023-ubuntu/ "
 
+
+cd /home/john/Vimal
+pwd 
+echo "ghp_kgMcHPSkfyOUXcwjOPxlE0UjKAhXjR3Iy1L"
 git clone https://github.com/panampunna/2023-ubuntu.git
 
 git branch
@@ -21,7 +25,12 @@ git checkout develop
 
 git pull
 
-ghp_kgMcHPSkfyOUXcwjOPxlE0UjKAhXjR3Iy1L
+echo "ghp_kgMcHPSkfyOUXcwjOPxlE0UjKAhXjR3Iy1L " 
+
+ls
+
+touch  /home/john/.bash_aliases
+cat /home/john/Vimal/2023-ubuntu/base.bash_aliases   > /home/john/.bash_aliases 
 
 
 ###################3333333#####2
