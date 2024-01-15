@@ -9,7 +9,7 @@ echo -e " https://github.com/panampunna/2023-ubuntu/ "
 
 cd /home/john/Vimal
 pwd 
-echo "ghp_kgMcHPSkfyOUXcwjOPxlE0UjKAhXjR3Iy1L"
+echo "ghp_kgMcHPSxxxxxxxxxxxxxxxxxxE0xxxxxxxxxxxx"
 
 git clone https://github.com/panampunna/2023-ubuntu.git
 
@@ -19,7 +19,7 @@ git branch
 
 git pull
 
-echo "ghp_kgMcHPSkfyOUXcwjOPxlE0UjKAhXjR3Iy1L " 
+echo "ghp_kgMcHPSkfyOUXxxxxxxxxxxxxxxxxxxxx " 
 
 ls
 
